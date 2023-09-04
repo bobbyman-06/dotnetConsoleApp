@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetConsoleApp", "dotnetConsoleApp\dotnetConsoleApp.csproj", "{63EF3354-FB7C-439B-B594-645265AA6C10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "filesystemtest", "..\..\Documents\GitHub\filesystemtest\filesystemtest.csproj", "{2EDEEB1B-6135-4EE4-BB42-3B764EDEE7F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,9 @@ Global
 		{63EF3354-FB7C-439B-B594-645265AA6C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63EF3354-FB7C-439B-B594-645265AA6C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63EF3354-FB7C-439B-B594-645265AA6C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EDEEB1B-6135-4EE4-BB42-3B764EDEE7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EDEEB1B-6135-4EE4-BB42-3B764EDEE7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EDEEB1B-6135-4EE4-BB42-3B764EDEE7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EDEEB1B-6135-4EE4-BB42-3B764EDEE7F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
-
