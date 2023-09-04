@@ -1,0 +1,14 @@
+c:\Users\rlslo\Desktop\helloGit\helloGit\bin\Debug\net7.0\helloGit.exe
+c:\Users\rlslo\Desktop\helloGit\helloGit\bin\Debug\net7.0\helloGit.deps.json
+c:\Users\rlslo\Desktop\helloGit\helloGit\bin\Debug\net7.0\helloGit.runtimeconfig.json
+c:\Users\rlslo\Desktop\helloGit\helloGit\bin\Debug\net7.0\helloGit.dll
+c:\Users\rlslo\Desktop\helloGit\helloGit\bin\Debug\net7.0\helloGit.pdb
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.AssemblyInfoInputs.cache
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.AssemblyInfo.cs
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.csproj.CoreCompileInputs.cache
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.dll
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\refint\helloGit.dll
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.pdb
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\helloGit.genruntimeconfig.cache
+c:\Users\rlslo\Desktop\helloGit\helloGit\obj\Debug\net7.0\ref\helloGit.dll
