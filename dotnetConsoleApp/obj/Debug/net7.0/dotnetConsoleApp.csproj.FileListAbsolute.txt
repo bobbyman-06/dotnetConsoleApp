@@ -1,0 +1,14 @@
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\bin\Debug\net7.0\dotnetConsoleApp.exe
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\bin\Debug\net7.0\dotnetConsoleApp.deps.json
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\bin\Debug\net7.0\dotnetConsoleApp.runtimeconfig.json
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\bin\Debug\net7.0\dotnetConsoleApp.dll
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\bin\Debug\net7.0\dotnetConsoleApp.pdb
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.AssemblyInfoInputs.cache
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.AssemblyInfo.cs
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.dll
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\refint\dotnetConsoleApp.dll
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.pdb
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\dotnetConsoleApp.genruntimeconfig.cache
+c:\Users\rlslo\Desktop\dotnetConsoleApp\dotnetConsoleApp\obj\Debug\net7.0\ref\dotnetConsoleApp.dll
