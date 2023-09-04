@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rlslo\\Desktop\\helloGit\\helloGit\\helloGit.csproj": {}
+    "c:\\Users\\rlslo\\Desktop\\dotnetConsoleApp\\dotnetConsoleApp\\dotnetConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rlslo\\Desktop\\helloGit\\helloGit\\helloGit.csproj": {
+    "c:\\Users\\rlslo\\Desktop\\dotnetConsoleApp\\dotnetConsoleApp\\dotnetConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rlslo\\Desktop\\helloGit\\helloGit\\helloGit.csproj",
-        "projectName": "helloGit",
-        "projectPath": "c:\\Users\\rlslo\\Desktop\\helloGit\\helloGit\\helloGit.csproj",
+        "projectUniqueName": "c:\\Users\\rlslo\\Desktop\\dotnetConsoleApp\\dotnetConsoleApp\\dotnetConsoleApp.csproj",
+        "projectName": "dotnetConsoleApp",
+        "projectPath": "c:\\Users\\rlslo\\Desktop\\dotnetConsoleApp\\dotnetConsoleApp\\dotnetConsoleApp.csproj",
         "packagesPath": "C:\\Users\\rlslo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rlslo\\Desktop\\helloGit\\helloGit\\obj\\",
+        "outputPath": "c:\\Users\\rlslo\\Desktop\\dotnetConsoleApp\\dotnetConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rlslo\\AppData\\Roaming\\NuGet\\NuGet.Config"
